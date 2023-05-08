@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-week-11-discussion
+<br>
+“Database Trends” Please respond to the following:• Identify at least two (2) industries that are currently using common data exchange and data management trends. Rank the success of each implementation based on the ease of implementation, ease of use, and costs.• Speculate the data exchange and data management trends that may take place in the next five to ten (5-10) years. Justify your response.
